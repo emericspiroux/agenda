@@ -1,5 +1,5 @@
 {
-  "name": "agenda",
+  "name": "agenda-mongodb2.4",
   "version": "1.0.4",
   "description": "Light weight job scheduler for Node.js",
   "main": "index.js",
