@@ -3,6 +3,7 @@
   "version": "1.0.4",
   "description": "Light weight job scheduler for Node.js",
   "main": "index.js",
+  "types": "index.d.ts",
   "files": [
     "lib"
   ],
